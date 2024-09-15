@@ -1,6 +1,6 @@
 ---
 csl: /home/jacqueline/pandoc/chicago-note-bibliography.csl
 bibliography: /home/jacqueline/pandoc/library.bib
-css: ../style.css
+css: /home/jacqueline/neocities/site/style.css
 lang: en
 ---
